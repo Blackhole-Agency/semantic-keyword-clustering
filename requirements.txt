@@ -1,0 +1,11 @@
+googleapiclient
+pandas
+Levenshtein
+fuzzywuzzy
+tld
+langid
+networkx
+community
+sqlite3
+transformers
+torch
